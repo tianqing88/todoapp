@@ -12,6 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running the tests
 
+- Project Folder ```src```: contains main code for remove todo app 
+- Test files ```TestFolder```: contains test files with TODO content
+
 1. Go to ```src``` folder in ```todoapp```, open command window by typing ```cmd``` into the Windows File Explorer address bar(use ```Ctrl+L``` to focus the address bar) and press ```Enter``` to open the shell.
 2. Type ```go run main.go``` and press ```Enter```.
-3. Check against the files for test result.
+3. Check against the files in ```TestFolder``` for test result.
